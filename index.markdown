@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Code IPP
 tagline: Supporting tagline
 ---
