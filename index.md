@@ -31,11 +31,11 @@ Le ruban circulaire est à la couleur de la discipline principale. Pour les disc
 
 Voici les couleurs nationalement adoptées, basées sur celles des toges doctorales et professorales des universités françaises :
 
-| Écoles d'ingénieur |     Velours bleu marine et noir     |
-| Médecine           | Velours rouge |
-| Préparateur en pharmacie | Velours vert |
-| Pharma (avec doctorat et tout genre qui pese) | Satin vert gelé (different des preparateurs) |
-| Vétérinaire | Velours bordeaux |
+* Écoles d'ingénieur - Velours bleu marine et noir
+* Médecine  - Velours rouge
+* Préparateur en pharmacie - Velours vert
+* Pharma (avec doctorat et tout genre qui pese) -  Satin vert gelé (different des preparateurs)
+* Vétérinaire - Velours bordeaux
 | Chirurgie dentaire | Velours violet |
 | Paramédical | Satin rose trompeur |
 | Podologie | Velours rose |
