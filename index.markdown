@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Code IPP
 tagline: Supporting tagline
 ---
@@ -22,20 +21,22 @@ L'étudiant doit se conformer à ces dispositions assez larges pour permettre to
 
 # Article V
 La faluche comporte deux parties:
-    
-    * Le ruban circulaire (avec ses emblèmes)
-    * Le velours noir (avec ses rubans supérieurs).
+
+   - Le ruban circulaire (avec ses emblèmes)
+   - Le velours noir (avec ses rubans supérieurs).
 
 # Article VI
 Le ruban circulaire est à la couleur de la discipline principale. Pour les disciplines secondaires, on placera sur le bord supérieur du ruban de la discipline principale, un ruban plus mince aux couleurs de la discipline annexe. Le circulaire pourra être en bois ou en plexiglace mais il est inconcevable d'avoir un circulaire en métal, matériau réservé à la fabrication de canettes.
 
 Voici les couleurs nationalement adoptées, basées sur celles des toges doctorales et professorales des universités françaises :
 
-* Écoles d'ingénieur - Velours bleu marine et noir
-* Médecine  - Velours rouge
-* Préparateur en pharmacie - Velours vert
-* Pharma (avec doctorat et tout genre qui pese) -  Satin vert gelé (different des preparateurs)
-* Vétérinaire - Velours bordeaux
+| Disciplines      | Couleurs |
+| ----------- | ----------- |
+| Écoles d'ingénieur | Velours bleu marine et noir
+| Médecine  | Velours rouge
+| Préparateur en pharmacie | Velours vert
+| Pharma (avec doctorat et tout genre qui pese) |  Satin vert gelé (different des preparateurs)
+| Vétérinaire | Velours bordeaux
 | Chirurgie dentaire | Velours violet |
 | Paramédical | Satin rose trompeur |
 | Podologie | Velours rose |
@@ -53,17 +54,23 @@ Voici les couleurs nationalement adoptées, basées sur celles des toges doctora
 Sur le ruban circulaire doit figurer :
 
 1. Le Bac
-
-    | S | ε |
-    | ES | β |
-    | L | lol |
-    | * | Tu l'écris |
+   
+    - S
+    - ε
+    - ES
+    - β
+    - L
+    - lol
+    - *
+    - Tu l'écris
 
 2. Les emblemes
 
-    | Ecoles d'ingenieur | Etoile et foutre (le nom de l'école peut être indiqué) |
-    | Institut Universitaire de Technologie | Marteau et Maillet |
-    | Classes Préparatoires aux Grandes Écoles | Chouette Bicéphale |
+   | Background  | Emblèmes |
+   | ----------- | ----------- |
+   | Ecoles d'ingenieur | Etoile et foutre (le nom de l'école peut être indiqué) |
+   | Institut Universitaire de Technologie | Marteau et Maillet |
+   | Classes Préparatoires aux Grandes Écoles | Chouette Bicéphale |
 
 NB : Le cas de la L1 Santé. En cas de le L1 réussie, tu auras une gomette. En cas de L1 échoué ou en cours, tu n'en auras pas.
 
@@ -74,19 +81,22 @@ Ils devront placer le drapeau de leur pays d'origine sous la 1ère étoile
 
 # Article VIII
 Le velours peut comporter :
+
 1. Les insignes
 
-   * Des congrès auquel t'as participé mon gars
-   * Des dagobi que t'as goulument avalés 
-   * Que t'as volés a tes potes en soirée
-   * Que tu veux en fait
+    - Des congrès auquel t'as participé mon gars
+    - Des dagobi que t'as goulument avalés 
+    - Que t'as volés a tes potes en soirée
+    - Que tu veux en fait
 
 2. Votre devise
 
-   * Ecrit dans la langue que tu veux, en sms je m'en bat les couilles mamène
+    - Ecrit dans la langue que tu veux, en sms je m'en bat les couilles mamène
 
-3. Les symboles
+3. Les symboles:
 
+| Symboles | Ce que ca veut dire tmtc |
+| ----------- | ----------- |
 | Mortier et pilon sur ruban arc en ciel | A pris du ghb |
 |  | a l'endroit: consciement |
 |  | a l'envers: a son insu |
@@ -129,6 +139,8 @@ Le velours peut comporter :
 
 Insignes descernés par les croix:
 
+| Insignes | Signification |
+| ----------- | ----------- |
 | Bacchus | Nas pas perdu sa grosse trousse |
 | Bouteille de bordeaux | Invitation oficielle des croix a se la coller severe |
 | Bouteille de Champagne | Quand l'invitation susmentionnée est partie en live |
@@ -145,16 +157,20 @@ Insignes descernés par les croix:
 
 Insigne descernés par le/la/les partenaire(s) :
 
+| Insignes | Signification |
+| ----------- | ----------- |
 | Pensée | A réaliser la plus grande partie |
 | Flèche | A finit sa partie le premier |
 | Lime | A galéré sa mere |
 
 4. Elus aux differents conseils
+
 5. Vos armes personnelles
-   * Famas
-   * m4
-   * Couteau suisse
-   * Ta bite même ca passe
+
+    - Famas
+    - m4
+    - Couteau suisse
+    - Ta bite même ca passe
   
 6. Les rubans de province et ville natales:
     Surmontés des ecussons en toile correspondants.
@@ -173,27 +189,27 @@ Sur le velours figurent aussi les rubans supérieurs de gauche à droite, du fro
    Ruban aux couleurs de l’association précisant la place occupée par l’étudiant.
 
 3. Pour les représentants d’association
-   a) Pour les membres du conseil d’administration et du bureau d’association régionale : un ruban aux couleurs de la ville d’élection
-   
-   b) Pour les élus et délégués au plan national :
-      — Pour les membres du conseil d’administration des associations, unions, fédérations nationales : un ruban tricolore
-      — Pour les membres de bureau : un ruban tricolore avec un filet blanc de chaque coté — Pour le président : un ruban tricolore avec une bande blanche de chaque coté
-   
-   c) Pour les élus ou délégués au plan européen : Les couleurs de l’Europe
-   
-   d) Pour les élus ou délégués au plan international : les couleurs de l’O.N.U. Le délégué placera le ruban de plus haut grade
 
+| Qui 	      | Ruban |
+| ----------- | ----------- |
+| les membres du conseil d’administration et du bureau d’association régionale | Ruban aux couleurs de la ville d’élection |
+| Membres du conseil d’administration des associations, unions, fédérations nationales | Ruban tricolore |
+| Membres de bureau | Ruban tricolore avec un filet blanc de chaque coté |
+| Président | Ruban tricolore avec une bande blanche de chaque coté |
+| Elus ou délégués au plan européen | Couleurs de l’Europe |
+| Elus ou délégués au plan international | Couleurs de l’O.N.U. Le délégué placera le ruban de plus haut grade |
+    
 4. Élus aux conseils d’UFR, conseils d’université, conseils régionaux et nationaux
-   L’élu placera, du frontal à l’occipital, un ruban de couleur jaune dont l’extrémité occipitale sera laissée libre. Sur ce pendentif seront placées par mandat :
-      
-      — Une grenouille argentée pour les élus au conseil d’UFR
-      — Une grenouille dorée pour les élus au conseil d’université
-      — Une tortue argentée pour les élus au CROUS
-      — Une tortue dorée pour les élus au CNOUS
-      — Les initiales des autres conseils (CNESER, OVE, COMUE, OVULE, BITE, ...)
-      — Une étoile dorée pour les VP étudiants d’université
-      — Une étoile argentée pour le VP étudiant d’UFR ou de CA d’IUT
-      — Une étoile dorée par mandat de délégués mutualistes (sur un petit ruban bleu)
+   L’élu placera, du frontal à l’occipital, un ruban de couleur jaune dont l’extrémité occipitale sera laissée libre. Sur ce pendentif seront placées par mandat
+
+    - Une grenouille argentée pour les élus au conseil d’UFR
+    - Une grenouille dorée pour les élus au conseil d’université
+    - Une tortue argentée pour les élus au CROUS
+    - Une tortue dorée pour les élus au CNOUS
+    - Les initiales des autres conseils (CNESER, OVE, COMUE, OVULE, BITE, ...)
+    - Une étoile dorée pour les VP étudiants d’université
+    - Une étoile argentée pour le VP étudiant d’UFR ou de CA d’IUT
+    - Une étoile dorée par mandat de délégués mutualistes (sur un petit ruban bleu)
 
 5. Les rubans de province et de ville de naissance
    Surmontés des écussons en toile correspondants.
