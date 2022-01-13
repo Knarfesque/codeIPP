@@ -30,37 +30,37 @@ Le ruban circulaire est à la couleur de la discipline principale. Pour les disc
 
 Voici les couleurs nationalement adoptées, basées sur celles des toges doctorales et professorales des universités françaises :
 
-    | Disciplines      | Couleurs |
-    | ----------- | ----------- |
-    | Écoles d'ingénieur | Satin bleu & noir |
-    | Chirurgie dentaire | Velours violet |
-    | Médecine | Velours rouge |
-    | Ostéopathie | Velours bleu roy |
-    | Pharmacie, Préparateur en pharmacie | Velours vert |
-    | Prépas santé | Velours marron |
-    | Sage-Femme | Velours fuschia |
-    | Vétérinaire | Velours bordeaux |
-    | DU | Matière et couleur suivant l’UFR de rattachement |
-    | Administration Économique et Sociale (AES) | Satin vert clair |
-    | Architecture, Arts du spectacle, Arts numériques, Audiovisuel, Beaux-arts, Arts Plastiques | Satin bleu |
-    | Paramédical | Satin rose trompeur |
-    | Podologie | Velours rose |
-    | Classes préparatoires | Satin marron |
-    | Communication | Satin suivant l'UFR de rattachement |
-    | Droit | Satin rouge |
-    | Écoles de commerce, gestion, communication, journalisme | Satin rouge & vert |
-    | IF | Un peu de tout, clairement la flemme, google it |
-    | Chiences | Satin violé |
-    | Tout ce qui va te mener au mac do/Chomage | Satin Jaune |
-    | Ceux qui courent après la baballe | Satin vert foncé |
-    | MEEF 1er degré | Satin gris |
-    | MEEF 2nd degré | Satin aux couleurs de la discipline étudiée |
-    | DUT & BTS | Satin blanc |
-    | IUP | Satin aux couleurs de la discipline étudiée |
-    | Musique, Musicologie | Satin argenté |
-    | Œnologie | Satin saumon |
-    | Sciences économiques, Gestion, IAE | Satin orange |
-    | Sciences politiques | Satin bleu & rouge |
+| Disciplines      | Couleurs |
+| ----------- | ----------- |
+| Écoles d'ingénieur | Satin bleu & noir |
+| Chirurgie dentaire | Velours violet |
+| Médecine | Velours rouge |
+| Ostéopathie | Velours bleu roy |
+| Pharmacie, Préparateur en pharmacie | Velours vert |
+| Prépas santé | Velours marron |
+| Sage-Femme | Velours fuschia |
+| Vétérinaire | Velours bordeaux |
+| DU | Matière et couleur suivant l’UFR de rattachement |
+| Administration Économique et Sociale (AES) | Satin vert clair |
+| Architecture, Arts du spectacle, Arts numériques, Audiovisuel, Beaux-arts, Arts Plastiques | Satin bleu |
+| Paramédical | Satin rose trompeur |
+| Podologie | Velours rose |
+| Classes préparatoires | Satin marron |
+| Communication | Satin suivant l'UFR de rattachement |
+| Droit | Satin rouge |
+| Écoles de commerce, gestion, communication, journalisme | Satin rouge & vert |
+| IF | Un peu de tout, clairement la flemme, google it |
+| Chiences | Satin violé |
+| Tout ce qui va te mener au mac do/Chomage | Satin Jaune |
+| Ceux qui courent après la baballe | Satin vert foncé |
+| MEEF 1er degré | Satin gris |
+| MEEF 2nd degré | Satin aux couleurs de la discipline étudiée |
+| DUT & BTS | Satin blanc |
+| IUP | Satin aux couleurs de la discipline étudiée |
+| Musique, Musicologie | Satin argenté |
+| Œnologie | Satin saumon |
+| Sciences économiques, Gestion, IAE | Satin orange |
+| Sciences politiques | Satin bleu & rouge |
 
 # Article VII
 
@@ -228,39 +228,39 @@ Le velours peut comporter :
 
 Insignes décernés par le/la/les partenaires :
 
-    | Insignes | Signification |
-    | ----------- | ----------- |
-    | Pensée | A réaliser la plus grande partie |
-    | Flèche | A finit sa partie le premier |
-    | Lime | A galéré sa mere |
-    | Épée | Fin baiseur |
+| Insignes | Signification |
+| ----------- | ----------- |
+| Pensée | A réaliser la plus grande partie |
+| Flèche | A finit sa partie le premier |
+| Lime | A galéré sa mere |
+| Épée | Fin baiseur |
 
 Insignes descernés par les croix:
 
-    | Insignes | Signification |
-    | ----------- | ----------- |
-    | Bacchus | Nas pas perdu sa grosse trousse |
-    | Bouteille de bordeaux | Invitation oficielle des croix a se la coller severe |
-    | Bouteille de Champagne | Quand l'invitation susmentionnée est partie en live |
-    | Chouette | Personne chouette, tellement chouette que si elle se l'auto descerne, aller spa très grave |
-    | Coq | Grande gueule sucant des bites |
-    | Singe | connerie certifié |
-    | Cor de chasse | Farm comme un chinois a l'usine |
-    | Mamouth | Est en prison |
-    | Sou troué | Pauvre de oooooooouf |
-    | Épée | S'est masturbé 8 fois en 24 heures |
-    | Poule | Fille bien |
-    | Poule a l'envers | Tchoin |
-    | Clou | S'est fait descernay un clou |
-    | Clé de sol | Digne chanteur de paillarde |
-    | Fourchette sur ruban bleu | Cordon bleu |
-    | Volant | Conducteur de fin de soirée |
+| Insignes | Signification |
+| ----------- | ----------- |
+| Bacchus | Nas pas perdu sa grosse trousse |
+| Bouteille de bordeaux | Invitation oficielle des croix a se la coller severe |
+| Bouteille de Champagne | Quand l'invitation susmentionnée est partie en live |
+| Chouette | Personne chouette, tellement chouette que si elle se l'auto descerne, aller spa très grave |
+| Coq | Grande gueule sucant des bites |
+| Singe | connerie certifié |
+| Cor de chasse | Farm comme un chinois a l'usine |
+| Mamouth | Est en prison |
+| Sou troué | Pauvre de oooooooouf |
+| Épée | S'est masturbé 8 fois en 24 heures |
+| Poule | Fille bien |
+| Poule a l'envers | Tchoin |
+| Clou | S'est fait descernay un clou |
+| Clé de sol | Digne chanteur de paillarde |
+| Fourchette sur ruban bleu | Cordon bleu |
+| Volant | Conducteur de fin de soirée |
  
 Insigne placé sur le ruban d’association:
 
-    | Insignes | Signification |
-    | ----------- | ----------- |
-    | Abeille | Travail et minutie associative |
+| Insignes | Signification |
+| ----------- | ----------- |
+| Abeille | Travail et minutie associative |
 
 5. Vos armes personnelles
 
