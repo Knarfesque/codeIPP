@@ -168,6 +168,8 @@ Le velours peut comporter :
 
     - Ecrit dans la langue que tu veux, en sms je m'en bat les couilles mamène, sur le velours du frontal à l'occipital à la gauche du ruban de province natale.
 
+bbkabka
+
 3. Les symboles:
 
     | Symboles | Ce que ca veut dire tmtc |
