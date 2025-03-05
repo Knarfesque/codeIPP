@@ -263,6 +263,7 @@ Le velours peut comporter :
     | Clé de sol | Digne chanteur·euse de paillarde |
     | Fourchette sur ruban bleu | Cordon bleu |
     | Volant | Conducteur·ice de fin de soirée |
+    | Abeille | N'a pas branlé sa bite en Novembre (Exposant le nombre d'année réussi) |
  
     Insigne placé sur le ruban d’association:
 
