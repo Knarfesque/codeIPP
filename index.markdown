@@ -34,41 +34,19 @@ Voici les couleurs nationalement adoptées, basées sur celles des toges doctora
 
 | Disciplines | Couleurs |
 | ----------- | ----------- |
-| Écoles d'ingénieur | Satin bleu & noir |
-| Chirurgie dentaire | Velours violet |
-| Etudes courtes de santé | Velours blanc |
-| Médecine | Velours rouge |
-| Ostéopathie | Velours bleu roy |
+| Écoles d'ingénieur | Velours bleu & noir |
+| Pharmacie | Satin vert gelée |
+| Préparateur·ice en pharmacie | Velours vert |
 | Paramédical | Satin rose trompeur |
-| Pharmacie, Préparateur·ice en pharmacie | Velours vert |
-| Prépas santé | Velours marron |
-| Sage-Femme | Velours fuschia |
-| Vétérinaire | Velours bordeaux |
-| DU | Matière et couleur suivant l’UFR de rattachement |
-| Administration Économique et Sociale (AES) | Satin vert clair |
-| Architecture ; Arts du spectacle ; Arts numériques ; Audiovisuel ; Beaux-arts ; Arts Plastiques | Satin bleu |
-| Classes préparatoires | Satin marron |
-| Communication | Satin suivant l'UFR de rattachement |
-| Droit | Satin rouge |
-| Écoles de commerce, gestion, communication, journalisme | Satin rouge & vert |
-| MEEF 1er degré | Satin gris |
-| MEEF 2nd degré | Satin gris |
-| Ceux qui courent après la baballe | Satin vert foncé |
-| BUT, DUT, BTS, Bachelor¹ | Satin blanc |
-| IUP | Satin aux couleurs de la discipline étudiée |
-| Tout ce qui va te mener au McDo/Chomage | Satin Jaune |
-| Musique, Musicologie | Satin argenté |
-| Œnologie | Satin saumon |
+| Podologie | Velours rose|
 | Chiences | Satin violet |
-| Sciences économiques, Gestion, IAE | Satin orange |
-| Sciences politiques | Satin bleu & rouge |
-
-¹Uniquement les bachelors inscrit au Répertoire national des certifications professionnelles (RNCP)
+| Macdo/Chômage | Satin jaune |
+| Baballe | Satin vert |
 
 ## Article VII
 Sur le ruban circulaire doit figurer :
 
-### 1. Le Baccalauréat
+### 1. Le Bac
 
    | Disciplines | Couleurs |
    | ----------- | ----------- |
@@ -76,9 +54,8 @@ Sur le ruban circulaire doit figurer :
    | Bac International | Lettre "i" après le bac principal |
    | Autres bacs | Tu l'écris |
    | Capacitaire | Lettre "C" |
-   | DAEU | Lettres DAEU |
 
-   **N.B**: A la fin du cursus pourront figurer un petit  « a » our l'agrégation et/ou un petit « c » pour le CAPES, suivi d'une petite palme.
+   **N.B**: Le cas de la L1 Santé. En cas de le L1 réussie, tu auras une gomette. En cas de L1 échoué ou en cours, tu n'en auras pas.
     Pour les bacs Franco-étranger, on y fera figurer l’insigne du double drapeau francais/second pays à côté de l’insigne dudit bac.
 
 
