@@ -16,7 +16,7 @@ La Faluche est portée de nos jours dans certaines facultés et écoles, d’une
 ## Article II-bis
 La faluche ne se réclamant d’aucune appartenance, les croix – en bons dirigeants – doivent cependant choisir un bord. L’on pourra se référer au tableau suivant pour détecter ses éventuels ennemis.
 
- Orientation du ruban | Orientation de la personne |
+| Orientation du ruban | Orientation de la personne |
 | ----------- | ----------- |
 | Ruban de croix porté à gauche | Croix de gauche |
 | Ruban de croix porté à droite | Croix de droite |
