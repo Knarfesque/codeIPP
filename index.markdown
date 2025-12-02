@@ -13,7 +13,7 @@ La Croix IPP, pour Ingénieurs Puceaux Parisiens est créée en l'an 5 de la fus
 # Article II
 La Faluche est portée de nos jours dans certaines facultés et écoles, d’une manière habituelle ou à titre exceptionnel, lors de manifestations estudiantines. On ne l’enlève pas, même devant un·e professeur·e, sauf s’iel a le rang de recteur·ice. Elle ne se réclame d’aucune appartenance politique, religieuse, syndicale, géopolitique, science politique, adiabatique ni Stanley Cubrique.
 
-## Article II-bis
+# Article II-bis
 La faluche ne se réclamant d’aucune appartenance, les croix – en bons dirigeants – doivent cependant choisir un bord. L’on pourra se référer au tableau suivant pour détecter ses éventuels ennemis.
 
 | Orientation du ruban | Orientation de la personne |
