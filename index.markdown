@@ -26,6 +26,9 @@ La faluche ne se réclamant d’aucune appartenance, les croix – en bons dirig
 # Article III
 Escholier·e, il est interdit de faire de la Faluche une succursale de Microsoft. Elle doit être le parchemin qui s'enorgueillit toujours de nouvelles richesses de l'histoire de l'étudiant·e. A ce titre le Grand Maître (peu importe lequel) peut décider de faire enlever un insigne qu’il juge non représentatif de l’étudiant·e.
 
+# Article III-bis
+| Tomate cerise (500g) | 2,5 € |
+
 # Article IV
 L'étudiant·e doit se conformer à ces dispositions assez larges pour permettre toute fantaisie, assez strictes pour réaliser l'uniformité.
 
